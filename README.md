@@ -15,10 +15,13 @@ Implementation for the paper *Discovering Density-Preserving Latent Space Walks 
 </center>
 
 # Environment
-I will add them after this tough PhD application cycle. 
+I provide the conda environment in file *conda_env.yaml* if you are interested. 
+```
+conda env create -f conda_env.yaml
+```
 
 # Run the Code
-I will add them after this tough PhD application cycle. 
+All the relavant code is released, but they are quit messy right now. I will edit them after this tough PhD application cycle. 
 
 # Some Results
 I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we mainly found some directions that cause position change, like left-right, zoom in-out and up-down. For human face in StyleGAN, various directions are found. If the intermediate layer we set to optimize the maximum variation is close to the input, the attribution we found are age, gender, etc. Otherwise, attributes like glasses and bear can be found. 
@@ -128,6 +131,6 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
     display: inline-block;
     color: black;
     padding: 2px;">
-    Figure 4. Some of the directions in PGGAN. 
+    Figure 1. Some of the directions in PGGAN. 
     </div>
 </center>
