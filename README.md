@@ -29,7 +29,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
     <tr>
         <td>
             <center>
-            <img src="docs/dog-left-right.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/dog-left-right.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
@@ -41,7 +41,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
         </td>
         <td>
             <center>
-            <img src="docs/dog_zoom.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/dog_zoom.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
@@ -53,7 +53,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
         </td>
         <td>
             <center>
-            <img src="docs/dog_up_down.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/dog_up_down.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
@@ -78,7 +78,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
     <tr>
         <td>
             <center>
-            <img src="docs/bear.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/bear.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
@@ -90,7 +90,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
         </td>
         <td>
             <center>
-            <img src="docs/hair.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/hair.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
@@ -102,7 +102,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
         </td>
         <td>
             <center>
-            <img src="docs/gender.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/gender.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
@@ -114,7 +114,7 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
         </td>
         <td>
             <center>
-            <img src="docs/glass.gif" width=300>
+            <img src="https://guanyueli.com/images/papers/acmmm2021/glass.gif" width=300>
             <br>
             <div style="color:orange;
             display: inline-block;
