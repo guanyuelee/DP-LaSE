@@ -1,5 +1,5 @@
 # DP-LaSE
-Implementation for the paper *Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations* published in ACM Multimedia, 2021. For more details, please refer to my [personal website](guanyueli.com/https://guanyueli.com/publication/multimedia2021) or read the [PDF](https://1drv.ms/b/s!AqN-jN9xngyFohsv5_4BvANJPMcG). 
+Implementation for the paper *Discovering Density-Preserving Latent Space Walks in GANs for Semantic Image Transformations* published in ACM Multimedia, 2021. For more details, please refer to my [personal website](https://guanyueli.com/publication/multimedia2021) or read the [PDF](https://1drv.ms/b/s!AqN-jN9xngyFohsv5_4BvANJPMcG). 
 
 <center>
     <img style="border-radius: 0.3125em;
@@ -131,6 +131,6 @@ I demonstrate some directions in BigGAN and StyleGAN. For dog in BigGAN, we main
     display: inline-block;
     color: black;
     padding: 2px;">
-    Figure 1. Some of the directions in PGGAN. 
+    Figure 1. Some of the directions in PGGAN. (Github cannot show gif file exceeding 5 MB, please refer to my blog  https://guanyueli.com/publication/multimedia2021. )
     </div>
 </center>
